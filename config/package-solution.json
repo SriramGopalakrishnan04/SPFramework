@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sp-framework-poc-client-side-solution",
+    "id": "5733a501-8b94-45f4-a3d0-2a66a484add5",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/sp-framework-poc.sppkg"
+  }
+}
