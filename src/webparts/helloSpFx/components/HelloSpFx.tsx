@@ -11,7 +11,7 @@ export default class HelloSpFx extends React.Component<IHelloSpFxProps, {}> {
           <div className={ styles.row }>
             <div className={ styles.column }>
               <span className={ styles.title }>Hello,Welcome to SharePoint Online!</span>
-              <p className={ styles.subTitle }>Customize SharePoint experiences using Web Parts.</p>
+              <p className={ styles.subTitle }>This webpart is created for demo.</p>
               <p className={ styles.description }>{escape(this.props.description)}</p>
               <a href="https://aka.ms/spfx" className={ styles.button }>
                 <span className={ styles.label }>Learn more</span>
